@@ -3,10 +3,13 @@ Front-End-Application-of-YouTube-Clone
 
 Desktop View:
 
-![Image](https://github.com/user-attachments/assets/2178ad4c-dc97-4cf7-9219-0a3b26d41297)
+![Image](https://github.com/user-attachments/assets/639e0348-e7d3-498e-9607-0bee8c56ee8c)
 
 
-![Image](https://github.com/user-attachments/assets/d0cfd8cb-87b7-4c6f-92ed-47f0bff96eb1)
+
+![Image](https://github.com/user-attachments/assets/9e78b466-c539-468a-9211-cbbe81cc78e0)
+
+
 
 Mobile view:
 
